@@ -4,3 +4,7 @@ Create two folders : Frontend -> client, Backend -> server
 
 Inside 'client' folder
 ----------------------
+```
+$ npx create-react-app ./
+$ npm i react-router-dom
+```
