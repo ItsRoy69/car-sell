@@ -13,6 +13,8 @@ Use 'Bootstrap 4.5' from 'https://www.w3schools.com/bootstrap4/bootstrap_get_sta
 
 ```
 $ npm i redux react-redux redux-thunk redux-devtools-extension [Install redux packages as well as install redux extension]
+$ npm i axios
+$ npm install antd [To install ant design]
 
 ```
 

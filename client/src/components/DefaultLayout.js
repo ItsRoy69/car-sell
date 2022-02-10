@@ -6,9 +6,6 @@ const DefaultLayout = (props) => {
             <div className="header bs1">
               <div className="d-flex justify-content-between">
                   <h1>ReSale</h1>
-
-                  <button>user</button>
-
               </div>
             </div>
             <div className="content">
