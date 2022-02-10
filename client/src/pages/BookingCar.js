@@ -1,10 +1,11 @@
-import React from 'react'
+import React from 'react';
+import DefaultLayout from '../components/DefaultLayout'
 
 const BookingCar = () => {
     return (
-        <h1>
-            BookingCar
-        </h1>
+        <DefaultLayout>
+            <h1>BookingCar</h1>
+        </DefaultLayout>
     )
 }
 

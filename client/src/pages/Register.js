@@ -1,10 +1,12 @@
 import React from 'react'
+import DefaultLayout from '../components/DefaultLayout'
+
 
 const Register = () => {
     return (
-        <h1>
-            Register
-        </h1>
+        <DefaultLayout>
+            <h1>Register</h1>
+        </DefaultLayout>
     )
 }
 
